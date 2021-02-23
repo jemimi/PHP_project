@@ -1,11 +1,11 @@
 # PHP_project
 
 Project Phase 2: 
-Jemi: Homepage
-Rohit: Header/Footer Navigation
-Chris: User Admin
-April: 
-Simran: Product page
+Jemi: Homepage  
+Rohit: Header/Footer Navigation  
+Chris: User Admin  
+April: Adding a product: user upload  
+Simran: Product page  
 
 Due Date: Tuesday, February 23 at 11:59 PM
 HTML and CSS - home page, public & admin interface, header footer, navigation 
