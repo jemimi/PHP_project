@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&family=Poppins:wght@500&display=swap');
+.container {
+     max-width: 900px;
+     background-color: #fff;
+     padding: 2em 1em;
+     border:  4px dotted #ffee93;
+}
+
+.image-title{
+    margin: 0 auto;
+    color: #ccc;
+}
+.btn-add {
+    border: 1px solid #000;
+    background: #fff;
+    box-shadow: 7px 5px 0 2px #ffee93;
+    padding: 0.25em 2em;
+    display: block;
+    margin: 3em auto;
+    font-family: 'Manrope', sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    transition: all 0.5s;
+    width: 50%;
+    height: 50%;
+}
+.btn-add:hover{
+    box-shadow: 0 0 0 0 #ffee93;
+    transform: translateX(4px);
+    transform: translateY(3px);
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Manrope', sans-serif;
+    text-transform: uppercase;
+    color: #000;
+}
+label{
+    font:normal 14px/1.5 'Poppins', sans-serif;
+    margin: 1em;
+}
+.form-control  {
+    font:normal 14px/1.5 'Poppins', sans-serif;
+    height: 70%;
+}
+.form-select {
+    height: 70%;
+}
+.form-check {
+    margin-top: 2em;
+}
+.form-check-input {
+    margin-top: 1em;
+}
+.edit {
+    margin: 0 auto;
+    text-align: center;
+    margin-top: -1em;
+    text-decoration: none;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+ }
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+ }
+}
