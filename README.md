@@ -1,6 +1,6 @@
 # PHP_project
 
-Project Phase 2: 
+Project Phase 2:   
 Jemi: Homepage  
 Rohit: Header/Footer Navigation  
 Chris: User Admin  
