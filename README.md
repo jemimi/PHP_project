@@ -1,4 +1,5 @@
-# PHP_project: JUST PRINT - digital marketplace
+# PHP_project: JUST PRINT   
+digital marketplace  
 
 Project Phase 2:   
 Jemi: Homepage  
