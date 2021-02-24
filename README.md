@@ -5,7 +5,7 @@ Project Phase 2:
 Jemi: Homepage  
 Rohit: Header/Footer Navigation  
 Chris: User Admin  
-April: User profile update
+April: User profile update page.
 Simran: Product page  
 
 Due Date: Tuesday, February 23 at 11:59 PM
