@@ -6,7 +6,6 @@ Jemi: Homepage
 Rohit: Header/Footer Navigation  
 Chris: User Admin  
 April: User profile update
-
 Simran: Product page  
 
 Due Date: Tuesday, February 23 at 11:59 PM
